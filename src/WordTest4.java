@@ -23,5 +23,6 @@ class WordTest4
         time2 = new Date().getTime();
         System.out.print("Time taken to remove "+n+" words ");
         System.out.println("is "+(time2-time1)+"ms");
+        System.out.println("Git hub sync check");
     }
 }
